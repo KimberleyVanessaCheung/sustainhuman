@@ -7,7 +7,7 @@
 
 ## 🌱 About
 
-SustainHuman is a Wired/Make-style magazine website featuring 28 comprehensive articles on sustainability, human optimization, and emerging technologies. Each article is 1,500-2,000 words of educational, evidence-based content.
+SustainHuman is a modern digital magazine featuring 28 comprehensive articles on sustainability, human optimization, and emerging technologies. Each article is 1,500-2,000 words of educational, evidence-based content.
 
 ### Article Categories
 
@@ -20,7 +20,7 @@ SustainHuman is a Wired/Make-style magazine website featuring 28 comprehensive a
 
 ## ✨ Features
 
-- 🎨 **Wired/Make-style design** - Bold typography, editorial layout, featured hero article
+- 🎨 **Modern editorial design** - Bold typography, editorial layout, featured hero article
 - 🔍 **Real-time search** - Instantly filter articles by title, category, or keyword
 - 📱 **Fully responsive** - Perfect on desktop, tablet, and mobile
 - ⚡ **Pure vanilla JavaScript** - No frameworks, fast loading
@@ -30,10 +30,7 @@ SustainHuman is a Wired/Make-style magazine website featuring 28 comprehensive a
 
 ## 🚀 Live Demo
 
-**Visit the live website:** [https://www.sustainhuman.com/
-)
-
-*(Update this link after deployment)*
+**Visit the live website:** [https://sustainhuman.com](https://sustainhuman.com)
 
 ## 🛠️ Technologies Used
 
@@ -48,7 +45,7 @@ SustainHuman is a Wired/Make-style magazine website featuring 28 comprehensive a
 sustainhuman/
 ├── index.html              # Main homepage
 ├── article-template.html   # Article detail page template
-├── styles.css              # All styling (Wired/Make design)
+├── styles.css              # All styling (modern editorial design)
 ├── script.js               # Homepage functionality + search
 ├── articles-data.js        # Article metadata (28 articles)
 ├── article-content.js      # Full article content (52,000+ words)
@@ -93,12 +90,12 @@ Each of the 28 articles includes:
 - Educational, evidence-based information
 - Multiple H2/H3 sections for easy navigation
 - Proper legal disclaimers
-- Wired magazine-style writing
+- Modern tech journalism writing style
 - Balanced perspectives on emerging technologies
 
 ## 🎨 Design Philosophy
 
-Inspired by **Wired** and **Make** magazines:
+Modern tech magazine aesthetic:
 - ✅ Bold, editorial typography (900 font weight headlines)
 - ✅ Category-based organization
 - ✅ Featured hero article at top
@@ -160,7 +157,7 @@ MIT License - Free to use and modify for your projects.
 
 ## 🙏 Acknowledgments
 
-- Design inspiration: Wired Magazine and Make Magazine
+- Design inspiration: Modern tech journalism
 - Images: Unsplash
 - Typography: System fonts for optimal performance
 
