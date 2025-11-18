@@ -30,7 +30,8 @@ SustainHuman is a Wired/Make-style magazine website featuring 28 comprehensive a
 
 ## 🚀 Live Demo
 
-**Visit the live website:** [https://[your-username].github.io/sustainhuman/](https://[your-username].github.io/sustainhuman/)
+**Visit the live website:** [https://www.sustainhuman.com/
+)
 
 *(Update this link after deployment)*
 
