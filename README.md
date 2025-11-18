@@ -14,9 +14,9 @@ SustainHuman is a modern digital magazine featuring 28 comprehensive articles on
 - **Human Performance** (6 articles) - Sleep optimization, wearable biosensors, metabolic flexibility
 - **Environment** (5 articles) - Renewable energy, carbon capture, vertical farms, circular economy
 - **Technology** (5 articles) - Smart homes, kinetic energy, brain-computer interfaces, quantum sensors
-- **Future** (4 articles) - Space habitats, longevity research, synthetic biology, metaverse fitness
 - **Science** (4 articles) - Gut-brain axis, mitochondria, chronobiology, placebo effect
 - **Innovation** (4 articles) - Biomimicry, hydrogen economy, lab-grown materials, passive house
+- **Future** (4 articles) - Space habitats, longevity research, synthetic biology, metaverse fitness
 
 ## ✨ Features
 
@@ -129,23 +129,23 @@ Modern tech magazine aesthetic:
 15. The Battery Breakthrough That Changes Everything
 16. Quantum Sensors Are Measuring the Unmeasurable
 
-**Future:**
-17. Space Habitats Are Teaching Us How to Live on Earth
-18. The Longevity Startups Hacking Human Lifespan
-19. Synthetic Biology Is Rewriting the Code of Life
-20. The Metaverse Meets Physical Fitness
-
 **Science:**
-21. The Gut-Brain Axis Is More Powerful Than We Thought
-22. Mitochondria: The Energy Crisis Inside Your Cells
-23. Chronobiology: Why Timing Is Everything
-24. The Placebo Effect Is Getting Stronger
+17. The Gut-Brain Axis Is More Powerful Than We Thought
+18. Mitochondria: The Energy Crisis Inside Your Cells
+19. Chronobiology: Why Timing Is Everything
+20. The Placebo Effect Is Getting Stronger
 
 **Innovation:**
-25. Biomimicry: Nature's 3.8 Billion Years of R&D
-26. The Hydrogen Economy Is Finally Happening
-27. Lab-Grown Everything: The Future of Materials
-28. The Passive House Standard Goes Mainstream
+21. Biomimicry: Nature's 3.8 Billion Years of R&D
+22. The Hydrogen Economy Is Finally Happening
+23. Lab-Grown Everything: The Future of Materials
+24. The Passive House Standard Goes Mainstream
+
+**Future:**
+25. Space Habitats Are Teaching Us How to Live on Earth
+26. The Longevity Startups Hacking Human Lifespan
+27. Synthetic Biology Is Rewriting the Code of Life
+28. The Metaverse Meets Physical Fitness
 
 ## 👩‍💻 Author
 

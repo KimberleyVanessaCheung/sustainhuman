@@ -1,5 +1,5 @@
-// Articles Data - Wired/Make Magazine Style
-// Categories: Human Performance, Environment, Technology, Future, Science, Innovation
+// Articles Data - Modern Digital Magazine
+// Categories: Human Performance, Environment, Technology, Science, Innovation, Future
 
 const articlesData = [
     // FEATURED ARTICLE
@@ -139,40 +139,6 @@ const articlesData = [
         readTime: "10 min"
     },
 
-    // FUTURE
-    {
-        id: 17,
-        title: "Space Habitats Are Teaching Us How to Live on Earth",
-        subtitle: "Closed-loop life support systems designed for Mars are solving sustainability challenges here at home",
-        image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
-        category: "Future",
-        readTime: "9 min"
-    },
-    {
-        id: 18,
-        title: "The Longevity Startups Hacking Human Lifespan",
-        subtitle: "From senolytics to NAD+ boosters, the science of aging is becoming the science of not aging",
-        image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=600&fit=crop",
-        category: "Future",
-        readTime: "11 min"
-    },
-    {
-        id: 19,
-        title: "Synthetic Biology Is Rewriting the Code of Life",
-        subtitle: "Engineered organisms are producing everything from spider silk to sustainable jet fuel",
-        image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&h=600&fit=crop",
-        category: "Future",
-        readTime: "10 min"
-    },
-    {
-        id: 20,
-        title: "The Metaverse Meets Physical Fitness",
-        subtitle: "VR workouts are getting so good, they're replacing traditional gyms for some athletes",
-        image: "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=800&h=600&fit=crop",
-        category: "Future",
-        readTime: "6 min"
-    },
-
     // SCIENCE
     {
         id: 21,
@@ -238,6 +204,40 @@ const articlesData = [
         subtitle: "Ultra-efficient buildings that barely need heating or cooling are no longer just for enthusiasts",
         image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
         category: "Innovation",
+        readTime: "6 min"
+    },
+
+    // FUTURE
+    {
+        id: 17,
+        title: "Space Habitats Are Teaching Us How to Live on Earth",
+        subtitle: "Closed-loop life support systems designed for Mars are solving sustainability challenges here at home",
+        image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
+        category: "Future",
+        readTime: "9 min"
+    },
+    {
+        id: 18,
+        title: "The Longevity Startups Hacking Human Lifespan",
+        subtitle: "From senolytics to NAD+ boosters, the science of aging is becoming the science of not aging",
+        image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=600&fit=crop",
+        category: "Future",
+        readTime: "11 min"
+    },
+    {
+        id: 19,
+        title: "Synthetic Biology Is Rewriting the Code of Life",
+        subtitle: "Engineered organisms are producing everything from spider silk to sustainable jet fuel",
+        image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&h=600&fit=crop",
+        category: "Future",
+        readTime: "10 min"
+    },
+    {
+        id: 20,
+        title: "The Metaverse Meets Physical Fitness",
+        subtitle: "VR workouts are getting so good, they're replacing traditional gyms for some athletes",
+        image: "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=800&h=600&fit=crop",
+        category: "Future",
         readTime: "6 min"
     }
 ];
