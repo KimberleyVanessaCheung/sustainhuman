@@ -7,16 +7,16 @@
 
 ## 🌱 About
 
-SustainHuman is a modern digital magazine featuring 28 comprehensive articles on sustainability, human optimization, and emerging technologies. Each article is 1,500-2,000 words of educational, evidence-based content.
+SustainHuman is a modern digital magazine featuring comprehensive articles on sustainability, human optimization, and emerging technologies. Each article is 1,500-2,000 words of educational, evidence-based content.
 
 ### Article Categories
 
-- **Human Performance** (6 articles) - Sleep optimization, wearable biosensors, metabolic flexibility
-- **Environment** (5 articles) - Renewable energy, carbon capture, vertical farms, circular economy
-- **Technology** (5 articles) - Smart homes, kinetic energy, brain-computer interfaces, quantum sensors
-- **Science** (4 articles) - Gut-brain axis, mitochondria, chronobiology, placebo effect
-- **Innovation** (4 articles) - Biomimicry, hydrogen economy, lab-grown materials, passive house
-- **Future** (4 articles) - Space habitats, longevity research, synthetic biology, metaverse fitness
+- **Human Performance** - Sleep optimization, wearable biosensors, metabolic flexibility
+- **Environment** - Renewable energy, carbon capture, vertical farms, circular economy
+- **Technology** - Smart homes, kinetic energy, brain-computer interfaces, quantum sensors
+- **Science** - Gut-brain axis, mitochondria, chronobiology, placebo effect
+- **Innovation** - Biomimicry, hydrogen economy, lab-grown materials, passive house
+- **Future** - Space habitats, longevity research, synthetic biology, metaverse fitness
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ SustainHuman is a modern digital magazine featuring 28 comprehensive articles on
 - 🔍 **Real-time search** - Instantly filter articles by title, category, or keyword
 - 📱 **Fully responsive** - Perfect on desktop, tablet, and mobile
 - ⚡ **Pure vanilla JavaScript** - No frameworks, fast loading
-- 📚 **28 comprehensive articles** - 1,500-2,000 words each
+- 📚 **comprehensive articles** - 1,500-2,000 words each
 - 🎯 **SEO optimized** - Proper meta tags and semantic HTML
 - ♿ **Accessible** - Web accessibility best practices
 
