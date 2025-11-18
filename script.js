@@ -52,7 +52,7 @@ function loadArticles() {
     const featured = articlesData.find(a => a.featured);
 
     // Get articles by category
-    const categories = ['Human Performance', 'Environment', 'Technology', 'Future', 'Science', 'Innovation'];
+    const categories = ['Human Performance', 'Environment', 'Technology', 'Science', 'Innovation', 'Future'];
 
     let html = '';
 
@@ -239,7 +239,7 @@ function displayFilteredArticles(articles) {
     }
 
     // Group by category
-    const categories = ['Human Performance', 'Environment', 'Technology', 'Future', 'Science', 'Innovation'];
+    const categories = ['Human Performance', 'Environment', 'Technology', 'Science', 'Innovation', 'Future'];
     let html = '';
 
     categories.forEach(category => {
