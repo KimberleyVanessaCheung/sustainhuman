@@ -103,51 +103,7 @@ Modern tech magazine aesthetic:
 - ✅ Blue (#00d4ff) and silver color scheme
 - ✅ Professional photography from Unsplash
 
-## 📖 Content Overview
-
-### All 28 Articles:
-
-**Human Performance:**
-1. The New Science of Sleep Hacking
-2. Wearable Biosensors Are Reading Your Body in Real Time
-3. The Metabolic Flexibility Revolution
-4. Cold Exposure: The Science Behind the Ice Bath Trend
-5. Cognitive Load Management for the Digital Age
-6. The Fitness Energy Paradox
-
-**Environment:**
-7. Micro Solar Is Finally Ready for Prime Time
-8. The Carbon Capture Startups Betting on Direct Air Extraction
-9. Community Microgrids Are Reshaping Energy Distribution
-10. Vertical Farms Are Growing Up—Literally
-11. The Circular Economy Isn't Just Recycling Anymore
-
-**Technology:**
-12. Smart Homes That Actually Make You Smarter
-13. The Kinetic Energy Harvesters in Your Shoes
-14. Brain-Computer Interfaces Go Mainstream
-15. The Battery Breakthrough That Changes Everything
-16. Quantum Sensors Are Measuring the Unmeasurable
-
-**Science:**
-17. The Gut-Brain Axis Is More Powerful Than We Thought
-18. Mitochondria: The Energy Crisis Inside Your Cells
-19. Chronobiology: Why Timing Is Everything
-20. The Placebo Effect Is Getting Stronger
-
-**Innovation:**
-21. Biomimicry: Nature's 3.8 Billion Years of R&D
-22. The Hydrogen Economy Is Finally Happening
-23. Lab-Grown Everything: The Future of Materials
-24. The Passive House Standard Goes Mainstream
-
-**Future:**
-25. Space Habitats Are Teaching Us How to Live on Earth
-26. The Longevity Startups Hacking Human Lifespan
-27. Synthetic Biology Is Rewriting the Code of Life
-28. The Metaverse Meets Physical Fitness
-
-## 👩‍💻 Author
+## ‍💻 Author
 
 **Created by Kimberley Vanessa Cheung**
 
