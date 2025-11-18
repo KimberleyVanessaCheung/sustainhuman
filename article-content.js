@@ -1878,7 +1878,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about quantum sensing technology and is not investment advice, product endorsement, or technical guidance. Quantum sensing is a complex field where claims about capabilities and timelines should be evaluated critically. Many applications remain in research stages, and commercialization timelines are uncertain. Performance of quantum sensors depends heavily on specific implementation details and operating conditions. Individual technologies and companies vary widely in their maturity and prospects. For technical applications, consult qualified physicists and engineers. This article simplifies complex quantum physics concepts for general understanding—detailed technical understanding requires advanced physics education.</p>
         `
     },
-    17: {
+    25: {
         content: `
             <h2>Extreme Constraints Drive Innovation</h2>
             <p>Space is perhaps the most hostile environment humans have ever attempted to inhabit. There's no air to breathe, no water to drink, no food to eat, extreme temperature variations, radiation exposure, and no possibility of resupply for months or years. Every resource must be brought from Earth at enormous cost—thousands of dollars per kilogram—or produced locally from limited materials. Waste cannot simply be thrown away; there's nowhere for it to go.</p>
@@ -2006,7 +2006,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about space life support systems and their terrestrial applications. It is not engineering guidance, product endorsement, or recommendation for specific technologies. Space-derived technologies must be adapted for terrestrial conditions and may not be optimal for all applications. Claims about sustainability benefits should be evaluated through life cycle analysis considering all inputs, outputs, and impacts. Individual technologies vary in maturity, cost-effectiveness, and applicability. For specific applications, consult qualified engineers and conduct thorough feasibility analysis. Space exploration involves significant costs and environmental impacts that should be considered alongside potential benefits. This article discusses potential applications of space research but does not advocate for specific space exploration programs or priorities.</p>
         `
     },
-    18: {
+    26: {
         content: `
             <h2>The Science of Aging</h2>
             <p>For most of human history, aging was accepted as inevitable—an immutable biological process leading inexorably to decline and death. However, research over recent decades has revealed that aging is not a simple, predetermined program but a complex process involving multiple mechanisms: cellular damage accumulation, telomere shortening, mitochondrial dysfunction, cellular senescence, epigenetic changes, and dysregulation of various biological pathways. Importantly, these mechanisms can be influenced—at least in laboratory organisms.</p>
@@ -2199,7 +2199,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about aging research and longevity interventions. It is not medical advice, product endorsement, or recommendation for specific treatments. Most longevity interventions discussed are experimental with limited or no evidence of efficacy in humans. Some involve prescription drugs used off-label, which carries risks. Long-term safety of many interventions is unknown. Individual responses vary, and some interventions may be harmful for certain people. Quality and purity of supplements vary widely. Before considering any longevity intervention, consult qualified healthcare providers. Do not discontinue prescribed medications or medical care in favor of experimental interventions. The most evidence-based approaches to healthy aging are lifestyle factors like exercise, nutrition, sleep, and not smoking. Claims about anti-aging products and treatments should be evaluated critically with attention to peer-reviewed evidence in humans, not just animal studies or theoretical mechanisms.</p>
         `
     },
-    19: {
+    27: {
         content: `
             <h2>Engineering Life Itself</h2>
             <p>For billions of years, life evolved through natural selection—random mutations filtered by survival and reproduction. Humans have influenced this process for millennia through selective breeding of crops and animals, but the underlying genetic mechanisms remained mysterious until the 20th century. The discovery of DNA's structure, the cracking of the genetic code, and the development of genetic engineering tools have progressively given humans the ability to deliberately modify living organisms at the molecular level.</p>
@@ -2370,7 +2370,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about synthetic biology and is not scientific guidance, product endorsement, or recommendation for specific applications. Synthetic biology involves complex science where claims about capabilities should be evaluated critically. Many applications remain in research stages with uncertain timelines for commercialization. Safety and ethical implications of synthetic biology are subjects of ongoing discussion and debate. Regulatory frameworks vary by jurisdiction and application. Work with genetically modified organisms is subject to regulations and safety requirements. This article simplifies complex biological and engineering concepts for general understanding—detailed technical understanding requires advanced education in biology and related fields. Individual technologies and companies vary widely in their maturity and prospects.</p>
         `
     },
-    20: {
+    28: {
         content: `
             <h2>Virtual Reality Comes to Fitness</h2>
             <p>Exercise has traditionally been a physical-world activity—running on trails, lifting weights in gyms, playing sports on fields. Yet for many people, traditional exercise is boring, inconvenient, or intimidating. Virtual reality (VR) offers a different approach: immersive digital environments where physical movement drives gameplay, exploration, or competition. As VR headsets have become more capable and affordable, VR fitness applications have proliferated, with some users claiming VR workouts rival or exceed traditional exercise.</p>
@@ -2531,7 +2531,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about VR fitness and is not medical advice, product endorsement, or exercise prescription. Before starting any new exercise program, including VR fitness, consult qualified healthcare providers, particularly if you have existing health conditions. VR fitness intensity varies widely depending on the specific application and user effort. Claims about calorie burn or fitness benefits should be evaluated critically. Individual responses to VR vary—some people experience motion sickness or discomfort. Safety precautions are essential to prevent injuries from collisions or falls while using VR. VR fitness may not provide balanced, comprehensive fitness without supplementation with other activities. Equipment costs and space requirements should be considered. This article discusses general categories of VR fitness applications, not specific products. Always research specific applications thoroughly and start gradually to assess your response to VR exercise.</p>
         `
     },
-    21: {
+    17: {
         content: `
             <h2>A Two-Way Communication Highway</h2>
             <p>The idea that the gut and brain communicate is not new—we've long recognized that stress can cause stomach upset or that gut problems can affect mood. However, research over the past two decades has revealed that the gut-brain connection is far more extensive, sophisticated, and consequential than previously imagined. The gut and brain are in constant bidirectional communication through multiple pathways: neural, hormonal, immune, and metabolic. This gut-brain axis influences not just digestion and appetite but potentially mood, cognition, behavior, and even neurological health.</p>
@@ -2678,7 +2678,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about the gut-brain axis and is not medical advice or treatment recommendation. Gut-brain axis research is an evolving field where many questions remain unanswered. Most evidence comes from animal studies or correlational human studies; causation is often unclear. Probiotics and other gut health products vary widely in quality and evidence. Claims about treating mental health or neurological conditions through gut interventions should be evaluated critically. Do not discontinue prescribed mental health treatments in favor of gut-based interventions. For mental health concerns, consult qualified mental health professionals. For digestive issues, consult gastroenterologists. Individual responses to dietary changes and probiotics vary considerably. This article discusses general research findings, not specific products or treatment protocols.</p>
         `
     },
-    22: {
+    18: {
         content: `
             <h2>The Cellular Power Plants</h2>
             <p>Every second of every day, your cells are performing countless energy-demanding tasks: contracting muscles, transmitting nerve signals, synthesizing proteins, transporting molecules, maintaining temperature, and much more. All of this requires energy, and the primary source of that energy is a molecule called ATP (adenosine triphosphate). The organelles responsible for producing most of your ATP are mitochondria—often called the "powerhouses of the cell." Understanding mitochondria, how they function, what can go wrong, and what influences their health is fundamental to understanding human biology and health.</p>
@@ -2836,7 +2836,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about mitochondria and is not medical advice or treatment recommendation. Mitochondrial biology is complex, and this article simplifies many concepts for general understanding. Primary mitochondrial diseases are rare genetic conditions requiring specialized medical care. For most people, mitochondrial dysfunction is not the primary cause of fatigue or health problems. Claims about supplements or interventions dramatically improving mitochondrial function should be evaluated critically—evidence is often limited. Do not discontinue prescribed treatments in favor of mitochondrial-focused interventions. For persistent fatigue or health concerns, consult qualified healthcare providers who can evaluate multiple potential causes. Individual responses to exercise, diet, and supplements vary. This article discusses general research findings, not specific products or protocols.</p>
         `
     },
-    23: {
+    19: {
         content: `
             <h2>Your Body Runs on Clocks</h2>
             <p>When you wake up, when you feel hungry, when you're most alert, when your body temperature peaks, when certain hormones are released—none of this is random. Your body operates according to internal biological clocks that orchestrate countless physiological processes in rhythmic patterns. The most prominent of these rhythms is the circadian rhythm, an approximately 24-hour cycle that influences nearly every aspect of your physiology and behavior.</p>
@@ -2975,7 +2975,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about chronobiology and circadian rhythms and is not medical advice or personalized health guidance. Individual chronotypes, schedules, and health conditions vary considerably. Optimal timing for activities depends on multiple individual factors. Before making significant changes to medication timing, consult healthcare providers. Shift work and circadian disruption are associated with health risks in epidemiological studies, but individual circumstances vary. Claims about precise optimal timing for specific activities often oversimplify individual variation and should be evaluated critically. This article discusses general research findings, not specific protocols or products. For sleep disorders or persistent circadian rhythm problems, consult sleep medicine specialists.</p>
         `
     },
-    24: {
+    20: {
         content: `
             <h2>The Mind-Body Connection Gets Stronger</h2>
             <p>In clinical trials testing new drugs, researchers face an increasingly frustrating problem: placebo responses are getting stronger. Patients receiving inactive sugar pills are showing greater improvements in pain, depression, and other conditions than they did decades ago. This isn't because sugar pills have become more effective—it's because the psychological and neurobiological mechanisms underlying placebo effects are powerful, complex, and apparently growing stronger over time, at least in certain contexts.</p>
@@ -3134,7 +3134,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about placebo effects and is not medical advice or treatment recommendation. Placebo effects are real but have limitations and cannot replace effective treatments for serious medical conditions. Do not discontinue prescribed treatments in favor of placebos. The strength of placebo effects varies considerably across conditions and individuals. Claims that treatments work "as well as placebo" should not be interpreted as endorsements—effective treatments typically work better than placebos. Ethical use of placebos in clinical practice is complex and debated. This article discusses research findings about placebo mechanisms, not recommendations for clinical practice. For medical conditions, consult qualified healthcare providers and use evidence-based treatments.</p>
         `
     },
-    25: {
+    21: {
         content: `
             <h2>Learning from Life's Laboratory</h2>
             <p>For 3.8 billion years, life on Earth has been solving problems through evolution. Organisms have developed remarkable solutions for moving efficiently, using energy sparingly, building strong yet lightweight structures, processing information, adapting to environments, and much more. These solutions have been tested and refined through countless generations of natural selection. Biomimicry—the practice of learning from and emulating nature's strategies—offers a fundamentally different approach to innovation: instead of inventing from scratch, we can look to the natural world for inspiration and proven solutions.</p>
@@ -3287,7 +3287,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about biomimicry and is not engineering guidance or product endorsement. Biomimicry is an approach to innovation that has produced some successful technologies but also faces significant challenges. Translation from biological systems to human applications requires substantial engineering and adaptation. Nature-inspired designs are not automatically superior or more sustainable than conventional designs—actual performance and environmental impacts must be assessed. Commercial viability and maturity of biomimetic technologies vary widely. Claims about specific biomimetic products should be evaluated critically based on evidence. This article discusses general principles and examples, not specific products or recommendations. Ethical considerations around indigenous knowledge and biopiracy are important in biomimicry practice.</p>
         `
     },
-    26: {
+    22: {
         content: `
             <h2>The Hydrogen Promise</h2>
             <p>For decades, hydrogen has been touted as the fuel of the future—a clean energy carrier that produces only water when used, potentially solving our energy and climate challenges. Yet for just as long, hydrogen has remained perpetually "just around the corner," held back by high costs, infrastructure challenges, and efficiency concerns. Now, something is changing. Falling renewable energy costs, improving electrolyzer technology, growing climate commitments, and substantial investments are making green hydrogen—hydrogen produced using renewable electricity—increasingly viable. The hydrogen economy may finally be happening, though not as universally or quickly as some advocates claim.</p>
@@ -3449,7 +3449,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about hydrogen energy and is not investment advice, policy recommendation, or technical guidance. The hydrogen economy faces significant technical, economic, and infrastructure challenges. Cost projections and timelines for hydrogen deployment are uncertain and vary widely across analyses. The viability of hydrogen for specific applications depends on many factors including local renewable energy resources, costs, and alternatives. Not all announced hydrogen projects will be realized. Distinctions between green, blue, and gray hydrogen are important—environmental benefits depend on production method. Efficiency losses in hydrogen production and use mean direct electrification is often preferable where feasible. This article discusses general trends and challenges, not specific projects or investments. For technical or business decisions regarding hydrogen, consult qualified experts and conduct thorough analysis.</p>
         `
     },
-    27: {
+    23: {
         content: `
             <h2>Growing Products Instead of Extracting Them</h2>
             <p>What if we could grow leather without raising cattle, produce meat without slaughtering animals, create diamonds without mining, or manufacture materials without drilling for oil? This is the promise of lab-grown materials—products created through controlled biological or chemical processes rather than traditional extraction, farming, or manufacturing. From cultured meat to synthetic spider silk to mycelium-based packaging, researchers and companies are developing ways to produce materials in laboratories and bioreactors, potentially transforming how we make everything from food to fashion to building materials.</p>
@@ -3636,7 +3636,7 @@ const articleContents = {
             <p class="disclaimer"><strong>Important Note:</strong> This article provides general educational information about lab-grown materials and is not investment advice, product endorsement, or safety guidance. Lab-grown materials vary widely in maturity, cost, and environmental impact. Environmental benefits compared to conventional materials are not automatic and depend on production methods, energy sources, and other factors—comprehensive life cycle assessment is needed. Costs for most lab-grown materials remain high, and whether they can become cost-competitive is uncertain. Regulatory status varies by product and country. Consumer acceptance is uncertain. Timelines for commercialization have historically been overly optimistic. This article discusses general technologies and trends, not specific products or companies. Safety and nutritional equivalence of lab-grown food products should be evaluated through regulatory processes. For specific products, consult regulatory approvals, peer-reviewed research, and transparent life cycle assessments.</p>
         `
     },
-    28: {
+    24: {
         content: `
             <h2>Buildings That Barely Need Heating or Cooling</h2>
             <p>Imagine a building in a cold climate that requires almost no heating, even in winter. Or a building in a hot climate that stays comfortable with minimal air conditioning. This isn't science fiction—it's the Passive House standard, a rigorous building performance standard that originated in Germany and is spreading globally. Passive House buildings achieve dramatic energy reductions—typically 75-90% less energy for heating and cooling than conventional buildings—through meticulous design and construction focused on insulation, airtightness, high-performance windows, and heat recovery ventilation.</p>

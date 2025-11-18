@@ -141,7 +141,7 @@ const articlesData = [
 
     // SCIENCE
     {
-        id: 21,
+        id: 17,
         title: "The Gut-Brain Axis Is More Powerful Than We Thought",
         subtitle: "New research shows your microbiome directly influences mood, cognition, and decision-making",
         image: "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?w=800&h=600&fit=crop",
@@ -149,7 +149,7 @@ const articlesData = [
         readTime: "8 min"
     },
     {
-        id: 22,
+        id: 18,
         title: "Mitochondria: The Energy Crisis Inside Your Cells",
         subtitle: "Understanding cellular powerhouses could unlock treatments for fatigue, aging, and disease",
         image: "https://images.unsplash.com/photo-1628595351029-c2bf17511435?w=800&h=600&fit=crop",
@@ -157,7 +157,7 @@ const articlesData = [
         readTime: "9 min"
     },
     {
-        id: 23,
+        id: 19,
         title: "Chronobiology: Why Timing Is Everything",
         subtitle: "Your body's internal clocks control more than sleep—they determine when you should eat, exercise, and think",
         image: "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=800&h=600&fit=crop",
@@ -165,7 +165,7 @@ const articlesData = [
         readTime: "7 min"
     },
     {
-        id: 24,
+        id: 20,
         title: "The Placebo Effect Is Getting Stronger",
         subtitle: "Mind-body connections are so powerful, they're complicating drug trials and redefining medicine",
         image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=600&fit=crop",
@@ -175,7 +175,7 @@ const articlesData = [
 
     // INNOVATION
     {
-        id: 25,
+        id: 21,
         title: "Biomimicry: Nature's 3.8 Billion Years of R&D",
         subtitle: "Engineers are copying evolution's best designs to solve modern sustainability challenges",
         image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
@@ -183,7 +183,7 @@ const articlesData = [
         readTime: "7 min"
     },
     {
-        id: 26,
+        id: 22,
         title: "The Hydrogen Economy Is Finally Happening",
         subtitle: "Green hydrogen production is scaling up to power everything from trucks to steel mills",
         image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600&fit=crop",
@@ -191,7 +191,7 @@ const articlesData = [
         readTime: "9 min"
     },
     {
-        id: 27,
+        id: 23,
         title: "Lab-Grown Everything: The Future of Materials",
         subtitle: "From leather to diamonds, we're learning to grow products without mining or farming",
         image: "https://images.unsplash.com/photo-1532187643603-ba119ca4109e?w=800&h=600&fit=crop",
@@ -199,7 +199,7 @@ const articlesData = [
         readTime: "8 min"
     },
     {
-        id: 28,
+        id: 24,
         title: "The Passive House Standard Goes Mainstream",
         subtitle: "Ultra-efficient buildings that barely need heating or cooling are no longer just for enthusiasts",
         image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
@@ -209,7 +209,7 @@ const articlesData = [
 
     // FUTURE
     {
-        id: 17,
+        id: 25,
         title: "Space Habitats Are Teaching Us How to Live on Earth",
         subtitle: "Closed-loop life support systems designed for Mars are solving sustainability challenges here at home",
         image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
@@ -217,7 +217,7 @@ const articlesData = [
         readTime: "9 min"
     },
     {
-        id: 18,
+        id: 26,
         title: "The Longevity Startups Hacking Human Lifespan",
         subtitle: "From senolytics to NAD+ boosters, the science of aging is becoming the science of not aging",
         image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&h=600&fit=crop",
@@ -225,7 +225,7 @@ const articlesData = [
         readTime: "11 min"
     },
     {
-        id: 19,
+        id: 27,
         title: "Synthetic Biology Is Rewriting the Code of Life",
         subtitle: "Engineered organisms are producing everything from spider silk to sustainable jet fuel",
         image: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&h=600&fit=crop",
@@ -233,7 +233,7 @@ const articlesData = [
         readTime: "10 min"
     },
     {
-        id: 20,
+        id: 28,
         title: "The Metaverse Meets Physical Fitness",
         subtitle: "VR workouts are getting so good, they're replacing traditional gyms for some athletes",
         image: "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=800&h=600&fit=crop",
