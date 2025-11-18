@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SustainHuman - Human & Environmental Sustainability</title>
+    <meta name="description" content="SustainHuman explores the intersection of human optimization and environmental sustainability. Created by Kimberley Vanessa Cheung.">
+    <meta name="author" content="Kimberley Vanessa Cheung">
+    <meta name="keywords" content="sustainability, human performance, environmental innovation, Kimberley Vanessa Cheung, SustainHuman">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <h1>Sustain<span class="highlight">Human</span></h1>
+            </div>
+            <ul class="nav-menu" id="navMenu">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#articles" class="nav-link">Articles</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Optimizing <span class="highlight">Humans & Planet</span></h1>
+            <p class="hero-subtitle">The intersection of human performance and environmental sustainability</p>
+            <a href="#articles" class="cta-button">Read Now</a>
+        </div>
+        <div class="hero-overlay"></div>
+    </section>
+
+    <!-- Articles Section -->
+    <section id="articles" class="articles-section">
+        <div class="container">
+            <h2 class="section-title">Stories</h2>
+
+            <!-- Search Bar -->
+            <div class="search-container">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search articles by title, category, or keyword...">
+                <button id="clearSearch" class="clear-search" style="display: none;">✕</button>
+            </div>
+            <p id="searchResults" class="search-results-text"></p>
+
+            <div class="articles-grid" id="articlesGrid">
+                <!-- Articles will be dynamically loaded here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter Section -->
+    <section id="newsletter" class="newsletter-section">
+        <div class="container">
+            <div class="newsletter-content">
+                <h2>Stay Ahead of the Curve</h2>
+                <p>Subscribe to our newsletter for the latest insights on human performance and futurism</p>
+                <form class="newsletter-form" id="newsletterForm">
+                    <input type="email" placeholder="Enter your email" required id="emailInput">
+                    <button type="submit" class="submit-btn">Subscribe</button>
+                </form>
+                <p class="form-message" id="formMessage"></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <div class="container">
+            <h2 class="section-title">About SustainHuman</h2>
+            <div class="about-content">
+                <p>SustainHuman is a digital magazine exploring the powerful intersection of human optimization and environmental sustainability. We believe that personal performance and planetary health are deeply connected—when we optimize ourselves sustainably, we create positive ripple effects for our environment.</p>
+                <p>Our mission is to showcase innovative solutions in human performance (sleep, energy, focus, recovery) and environmental sustainability (renewable energy, climate innovation, eco-friendly tech) that work together to create a thriving future for both people and planet.</p>
+                <p>From wearable technology and cognitive performance systems to micro renewable energy and fitness-powered gadgets, we explore how science, technology, and mindful living can help us build sustainable habits that benefit ourselves and our world.</p>
+                <p class="creator-credit"><strong>Created by Kimberley Vanessa Cheung</strong></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <div class="contact-content">
+                <form class="contact-form" id="contactForm">
+                    <div class="form-group">
+                        <input type="text" placeholder="Your Name" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" placeholder="Your Email" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea placeholder="Your Message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="submit-btn">Send Message</button>
+                </form>
+                <p class="form-message" id="contactMessage"></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Sustain<span class="highlight">Human</span></h3>
+                    <p>Optimizing humans and planet for a sustainable future</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#articles">Articles</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="#" aria-label="Twitter">𝕏</a>
+                        <a href="#" aria-label="LinkedIn">in</a>
+                        <a href="#" aria-label="Instagram">📷</a>
+                        <a href="#" aria-label="YouTube">▶</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 SustainHuman. All rights reserved.</p>
+                <p style="font-size: 0.85rem; margin-top: 0.5rem; color: #888;">Created by Kimberley Vanessa Cheung</p>
+                <p style="font-size: 0.85rem; margin-top: 0.5rem; color: #888;">All content is for educational and informational purposes only. Not medical, health, financial, or professional advice. Consult qualified professionals before making any decisions.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="articles-data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
