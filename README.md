@@ -30,7 +30,7 @@ SustainHuman is a modern digital magazine featuring comprehensive articles on su
 
 ## 🚀 Live Demo
 
-**Visit the live website:** [https://sustainhuman.com](https://sustainhuman.com)
+**Visit the live website:** [https://sustainhumanhub.com](https://sustainhumanhub.com)
 
 ## 🛠️ Technologies Used
 
